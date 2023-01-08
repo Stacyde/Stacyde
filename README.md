@@ -5,10 +5,10 @@
   <img src="https://img.shields.io/badge/VK-blue?style=for-the-badge&logo=VK&logoColor=white)" alt="VK Badge"/>
   </a>
   <a href="https://www.instagram.com/stacyyde">
-  <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram Badge"/>
+  <img src="https://img.shields.io/badge/Instagram-C13584?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram Badge"/>
    </a>
    </div id="badges">
-  <img src="https://komarev.com/ghpvc/?username=Stacyde&style=flat-square&color=blue" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=Stacyde&style=flat-square&color=8a7f8e" alt=""/>
   </div>
   
 
