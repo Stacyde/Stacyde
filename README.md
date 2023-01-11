@@ -3,10 +3,13 @@
 </div>
 
 <div class="Badges" align ="center">
+<a>
  <a href="https://vk.com/stacyde">
   <img src="https://img.shields.io/badge/VK-blue?style=for-the-badge&logo=VK&logoColor=white)" alt="VK Badge"/>
+</a>
   <a href="https://www.instagram.com/stacyyde">
   <img src="https://img.shields.io/badge/Instagram-C13584?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram Badge"/>
+</a>
 <div>
 
    <div class="Badges-visiting" align ="center">
@@ -18,10 +21,12 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>
 
 <p>Я инженер по тестированию.</p>
+<ol>
 
-- Работаю в компании EqvantaLab. Вношу свой вклад в тестирование фронтенда и бэкэнда веб-приложений.
-- Интересуюсь всем, что связано с тестированием и дрифтом.
-- В свободное время обучаюсь в Netology, так как считаю что в ИТ нужно развиваться и обучаться на постоянной основе.
+<li>Работаю в компании EqvantaLab. Вношу свой вклад в тестирование фронтенда и бэкэнда веб-приложений.</li>
+<li>Интересуюсь всем, что связано с тестированием и дрифтом.</li>
+<li>В свободное время обучаюсь в Netology, так как считаю что в ИТ нужно развиваться и обучаться на постоянной основе.</li>
+</ol>
 </div>
 
 <aside class="Tools">
