@@ -1,36 +1,56 @@
-<div id="header" align ="center">
-<img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="100"/>
-<div id="badges">
+<div class="Images" align ="center">
+<figure class="figure-cat">
+<img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="100" alt="cat">
+</figure>
+
+<div class="Badges" align ="center">
+<figure class="figure-vk">
  <a href="https://vk.com/stacyde">
-  <img src="https://img.shields.io/badge/VK-blue?style=for-the-badge&logo=VK&logoColor=white)" alt="VK Badge"/>
-  </a>
+  <img src="https://img.shields.io/badge/VK-blue?style=for-the-badge&logo=VK&logoColor=white)" alt="VK Badge">
+</figure>
+
+<figure class="figure-instagram">
   <a href="https://www.instagram.com/stacyyde">
   <img src="https://img.shields.io/badge/Instagram-C13584?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram Badge"/>
-   </a>
-   </div id="badges">
-  <img src="https://komarev.com/ghpvc/?username=Stacyde&style=flat-square&color=8a7f8e" alt=""/>
+</figure>
+
+   <div class="Badges-visiting" align ="center">
+  <img src="https://komarev.com/ghpvc/?username=Stacyde&style=flat-square&color=8a7f8e">
   </div>
   
-
-  <h1>
- Привет
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+<div class="About-me" align ="left">
+  <h1>Привет
+<figure class="figure-gif">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
+</figure>
 </h1>
 
-Я инженер по тестированию <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+<p>Я инженер по тестированию.</p>
+<ol>
+<li>Работаю в компании EqvantaLab. Вношу свой вклад в тестирование фронтенда и бэкэнда веб-приложений.</li>
+<li>Интересуюсь всем, что связано с тестированием и дрифтом.</li>
+<li>В свободное время обучаюсь в Netology, так как считаю что в ИТ нужно развиваться и обучаться на постоянной основе.</li>
+</div>
 
--  Я работаю инженером по тестированию в компании EqvantaLab. Вношу свой вклад в тестирование фронтенда и бэкэнда веб-приложений.
+<aside class="Tools" >
+<section class="Tools-section">
+<div class="Tools-img" align ="left">
+<h2 class="Tools-title">Инструменты, которые я освоила: </h2>
+<article class="Tools-img"
+<figure class="figure-git">
+  <img src="https://cdn.freebiesupply.com/logos/large/2x/git-icon-logo-png-transparent.png" title="Git" alt="Git" width="40" height="40">
+</figure>
+<figure class="figure-Postman">
+  <img src="https://logowiki.net/uploads/logo/p/postman.svg" title="Postman" alt="Postman" width="40" height="40">
+</figure>
+</div>
+</article>
 
-- Интересуюсь всем, что связано с тестированием и дрифтом.
-
-- В свободное время обучаюсь в Netology, так как считаю что в ИТ нужно развиваться и обучаться на постоянной основе.
-
-Инструменты, которые я освоила:
-<div>
-  <img src="https://cdn.freebiesupply.com/logos/large/2x/git-icon-logo-png-transparent.png" title="Git" alt="Git" width="40" height="40"/>
-  <img src="https://logowiki.net/uploads/logo/p/postman.svg" title="Postman" alt="Postman" width="40" height="40"/>
-
-
-Языки программирования, которые я освоила:
-- HTML и CSS
-
+<article class="Programming-language">
+<div class="language" align ="left">
+<h2 class="language-title">Языки программирования, которые я освоила: </h2>
+HTML и CSS
+</div>
+</div>
+</section>
+</aside>
