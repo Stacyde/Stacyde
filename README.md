@@ -35,6 +35,7 @@
 <h2 class="Tools-title">Инструменты, которые я освоила: </h2>
   <img src="https://cdn.freebiesupply.com/logos/large/2x/git-icon-logo-png-transparent.png" title="Git" alt="Git" width="40" height="40"/>
   <img src="https://logowiki.net/uploads/logo/p/postman.svg" title="Postman" alt="Postman" width="40" height="40"/>
+  <img src="https://www.digiseller.ru/preview/554839/p1_3426434_98691a2e.png" title="Intellij IDEA" alt="Intellij IDEA" width="40" height="40"/>
 </div>
 
 <div class="language" align ="left">
