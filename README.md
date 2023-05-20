@@ -6,10 +6,6 @@
 <a>
  <a href="https://vk.com/stacyde">
   <img src="https://img.shields.io/badge/VK-blue?style=for-the-badge&logo=VK&logoColor=white)" alt="VK Badge"/>
-</a>
-  <a href="https://www.instagram.com/stacyyde">
-  <img src="https://img.shields.io/badge/Instagram-C13584?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram Badge"/>
-</a>
 <div>
 
    <div class="Badges-visiting" align ="center">
