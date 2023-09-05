@@ -5,12 +5,6 @@
 <div class="Badges-visiting" align ="center">
   <img src="https://komarev.com/ghpvc/?username=Stacyde&style=flat-square&color=8a7f8e"/>
   </div>
-
-<div class="Badges" align ="center">
-<a>
- <a href="https://vk.com/stacyde">
-  <img src="https://img.shields.io/badge/VK-blue?style=for-the-badge&logo=VK&logoColor=white)" alt="VK Badge"/>
-<div>
  
 <div class="About-me" align ="left">
   <h2>Привет
