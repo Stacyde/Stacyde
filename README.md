@@ -41,7 +41,17 @@
 <li> Основы Java, Авто-тесты и CI, Объектно-ориентированное программирование -   </li>
 <li> Тестирование веб-приложений, API, понимание клиент-серверного взаимодействия, работа с DevTools, Postman - </li>
 <li> Работа с Git, одновременная работа с несколькими репозиториями - </li>
-<li> Автотестирование веб-приложений на Java с использованием JUnit, Selenium, Selenide - <a href="https://github.com/Stacyde/Bdd">Behaviour Driven Development, </a> <a href="https://github.com/Stacyde/api_patterns">Patterns api, </a> <a href="https://github.com/Stacyde/app_patterns">Patterns, </a> <a href="https://github.com/Stacyde/app_card">Selenide, </a> <a href="https://github.com/Stacyde/web">Selenium, </a> <a href="https://github.com/Stacyde/api_test">JUnit - Тестирование API, Continuous Integration(1), </a>  <a href="https://github.com/Stacyde/api_tests">JUnit - Тестирование API, Continuous Integration(2),  </a><a href="https://github.com/Stacyde/Gradle_CashbackHackService">JUnit - Основы автоматизации</a> </li>
-<li> Знание различных видов виртуализации и контейнеризации, работа с Docker и Docker Compose - <a href="https://github.com/Stacyde/Docker">Docker</a> </li>
+<li> Автотестирование веб-приложений на Java с использованием JUnit, Selenium, Selenide </li>
+<ul>
+<li> <a href="https://github.com/Stacyde/Gradle_CashbackHackService">JUnit - Основы автоматизации</a> </li> 
+<li> <a href="https://github.com/Stacyde/api_test">JUnit - Тестирование API, Continuous Integration(1)</a></li> 
+<li> <a href="https://github.com/Stacyde/api_tests">JUnit - Тестирование API, Continuous Integration(2)</a></li> 
+<li> <a href="https://github.com/Stacyde/web">Selenium</a></li> 
+ <li> <a href="https://github.com/Stacyde/app_card">Selenide</a></li> 
+<li> <a href="https://github.com/Stacyde/app_patterns">Patterns</a></li> 
+ <li> <a href="https://github.com/Stacyde/api_patterns">Patterns api</a></li> 
+ <li> <a href="https://github.com/Stacyde/Bdd">Behaviour Driven Development </a></li> 
+</ul>
+<li> Знание различных видов виртуализации и контейнеризации, работа с Docker и Docker Compose <ul><li> <a href="https://github.com/Stacyde/Docker">Docker</a> </ul></li>
 </ol>
 </div>
