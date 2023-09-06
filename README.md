@@ -28,7 +28,20 @@
   <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" title="Selenium" alt="Selenium" width="40" height="40"/>
   <img src="https://u.netology.ru/backend/uploads/page_assets/images/file/46327/tools_JUnit_color.png" title="JUnit" alt="JUnit" width="40" height="40"/>
   <img src="https://u.netology.ru/backend/uploads/page_assets/images/file/46322/tools_Java_color.png" title="Java" alt="Java" width="40" height="40"/>
+<img src="https://u.netology.ru/backend/uploads/page_assets/images/file/46306/tools_Docker_color.png" title="Java" alt="Docker" width="40" height="40"/>
 </div>
 </div>
 </section>
 </aside>
+
+<div class="Tasks" align ="left">
+<h2 class="Tasks-title">Задачи, которые я решила: </h2>
+<ol>
+<li> Ручное тестирование, написание тест-кейсов, тест-дизайн -   </li>
+<li> Основы Java, Авто-тесты и CI, Объектно-ориентированное программирование -   </li>
+<li> Тестирование веб-приложений, API, понимание клиент-серверного взаимодействия, работа с DevTools, Postman - </li>
+<li> Работа с Git, одновременная работа с несколькими репозиториями - </li>
+<li> Автотестирование веб-приложений на Java с использованием JUnit, Selenium, Selenide - <a href="https://github.com/Stacyde/Bdd">Behaviour Driven Development, </a> <a href="https://github.com/Stacyde/api_patterns">Patterns api, </a> <a href="https://github.com/Stacyde/app_patterns">Patterns, </a> <a href="https://github.com/Stacyde/app_card">Selenide, </a> <a href="https://github.com/Stacyde/web">Selenium, </a> <a href="https://github.com/Stacyde/api_test">JUnit - Тестирование API, Continuous Integration(1), </a>  <a href="https://github.com/Stacyde/api_tests">JUnit - Тестирование API, Continuous Integration(2),  </a><a href="https://github.com/Stacyde/Gradle_CashbackHackService">JUnit - Основы автоматизации</a> </li>
+<li> Знание различных видов виртуализации и контейнеризации, работа с Docker и Docker Compose - <a href="https://github.com/Stacyde/Docker">Docker</a> </li>
+</ol>
+</div>
