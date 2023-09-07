@@ -81,7 +81,7 @@
 <li> <a href="https://github.com/Stacyde/Recipe_/issues/1">Введение в Java.</a> </li> <p>Проанализировала программу расчёта распределения ингредиентов на порцию и нашла баг</p>
   <li> <a href="https://github.com/Stacyde/Miles">Примитивные типы данных и условные операторы.</a> </li> <p>Создала приложение, рассчитывающее количество начисленных миль за купленный билет</p>
    <li> <a href="https://github.com/Stacyde/BmiService">Testability. Введение в ООП.</a> </li><p>Создала приложение, выводящее итоговый счёт и количество бонусных рублей</p>
-   <li> <a href="https://github.com/Stacyde/bonus-service">Система сборки Maven, управление зависимостями, авто-тесты на JUnit5n</a> </li><p>Написала сервис, который рассчитывает индекс массы тела</p>
+   <li> <a href="https://github.com/Stacyde/bonus-service">Система сборки Maven, управление зависимостями, авто-тесты на JUnit5</a> </li><p>Написала сервис, который рассчитывает индекс массы тела</p>
     <li> <a href="https://github.com/Stacyde/bonus-service/commit/9a0194dbeef399f3ff0061bd09547db0127f7891">Система сборки Maven(maven-checkstyle-plugin)</a> </li>
   
    <li> <a href="https://github.com/Stacyde/SQRService">Пакеты и циклы</a> </li><p>Написала сервисный класс расчитывающий квадратный корень. Использовала для тестирования параметризированные тесты.</p>
