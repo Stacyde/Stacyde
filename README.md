@@ -51,18 +51,18 @@
   <li> <a href="https://codepen.io/stacyde/pen/gOzBzvm">Вёрстка статьи «Чемпионат мира по футболу» для «Википедии» </a> </li>
  <li> <a href="https://codepen.io/stacyde/pen/dyegKdV">Вёрстка блока с иллюстрацией для статьи о Монреале</a> </li>
  <li> <a href="https://codepen.io/stacyde/pen/yLjRqBO">Стилизация блоков с иллюстрациями для статьи о Нью-Йорке</a> </li>
-  <li> <a href="https://codepen.io/stacyde/pen/BaxGBMM">История Монреаля</a> </li><p>Вёрстка по стандарту W3C</p>
+  <li> <a href="https://codepen.io/stacyde/pen/BaxGBMM">История Монреаля.Вёрстка по стандарту W3C</a> </li>
  <li> <a href="https://codepen.io/stacyde/pen/qBYQBao">Стилизация блока Новостей</a> </li>
  <li> <a href="https://codepen.io/stacyde/pen/gOzQOoV"> Добавление стилей в раздел услуг веб-студии</a> </li>
-  <li> <a href="https://codepen.io/stacyde/pen/jOxQYaa?editors=1100">Позиционирование блочных элементов</a> </li><p>Улучшение сайта Нетологии — исправление раздела «Наши эксперты»</p>
- <li> <a href="https://codepen.io/stacyde/pen/MWGzQMw?editors=1100">Позиционирование блочных элементов</a> </li><p> Исправление отступов на странице "Курсы Нетологии"</p>
+  <li> <a href="https://codepen.io/stacyde/pen/jOxQYaa?editors=1100">Позиционирование блочных элементов. Улучшение сайта Нетологии — исправление раздела «Наши эксперты»</a> </li>
+ <li> <a href="https://codepen.io/stacyde/pen/MWGzQMw?editors=1100">Позиционирование блочных элементов.Исправление отступов на странице "Курсы Нетологии"</a> </li>
  <li> <a href="https://codepen.io/stacyde/pen/MWGzVKK?editors=1100"> Исправление ошибок во вложенности HTML-элементов на странице "Блог Нетология"</a> </li>
-<li> <a href="https://codepen.io/stacyde/pen/ZEowpQK?editors=1100"> Нестандартные элементы форм</a> </li><p>Верстка страницы «Направления Нетологии»</p>
+<li> <a href="https://codepen.io/stacyde/pen/ZEowpQK?editors=1100"> Нестандартные элементы форм.Верстка страницы «Направления Нетологии»</a> </li>
 <li> <a href="https://codepen.io/stacyde/pen/poVGEQW">Нестандартные элементы форм.Блок выбора города</a> </li>
 <li> <a href="https://codepen.io/stacyde/pen/OJZdbXp?editors=1100">Нестандартные элементы форм.Поле поиска</a> </li>
 <li> <a href="https://codepen.io/stacyde/pen/oNdVRor?editors=0100">Позиционирование flex-элементов.Фиксирование блоков</a> </li>
 <li> <a href="https://codepen.io/stacyde/pen/abGMrGM?editors=0100">Позиционирование flex-элементов.Правка статьи из блога Нетологии.</a> </li>
-<li> <a href="https://codepen.io/stacyde/pen/YzLgbOX?editors=0100">Позиционирование flex-элементов</a> </li><p>Вёрстка текста по PSD-макету</p>
+<li> <a href="https://codepen.io/stacyde/pen/YzLgbOX?editors=0100">Позиционирование flex-элементов.Вёрстка текста по PSD-макету</a> </li>
  </ul>
 <b><li> Работа с Git, одновременная работа с несколькими репозиториями </li></b>
  <ul>
