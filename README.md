@@ -51,18 +51,18 @@
   <li> <a href="https://codepen.io/stacyde/pen/gOzBzvm">Вёрстка статьи «Чемпионат мира по футболу» для «Википедии» </a> </li>
  <li> <a href="https://codepen.io/stacyde/pen/dyegKdV">Вёрстка блока с иллюстрацией для статьи о Монреале</a> </li>
  <li> <a href="https://codepen.io/stacyde/pen/yLjRqBO">Стилизация блоков с иллюстрациями для статьи о Нью-Йорке</a> </li>
-  <li> <a href="https://codepen.io/stacyde/pen/BaxGBMM">История Монреаля(Вёрстка по стандарту W3C)</a> </li>
+  <li> <a href="https://codepen.io/stacyde/pen/BaxGBMM">История Монреаля</a> </li><p>Вёрстка по стандарту W3C</p>
  <li> <a href="https://codepen.io/stacyde/pen/qBYQBao">Стилизация блока Новостей</a> </li>
  <li> <a href="https://codepen.io/stacyde/pen/gOzQOoV"> Добавление стилей в раздел услуг веб-студии</a> </li>
-  <li> <a href="https://codepen.io/stacyde/pen/jOxQYaa?editors=1100">Позиционирование блочных элементов.Улучшение сайта Нетологии — исправление раздела «Наши эксперты»</a> </li>
- <li> <a href="https://codepen.io/stacyde/pen/MWGzQMw?editors=1100">Позиционирование блочных элементов. Исправление отступов на странице "Курсы Нетологии"</a> </li>
+  <li> <a href="https://codepen.io/stacyde/pen/jOxQYaa?editors=1100">Позиционирование блочных элементов</a> </li><p>Улучшение сайта Нетологии — исправление раздела «Наши эксперты»</p>
+ <li> <a href="https://codepen.io/stacyde/pen/MWGzQMw?editors=1100">Позиционирование блочных элементов</a> </li><p> Исправление отступов на странице "Курсы Нетологии"</p>
  <li> <a href="https://codepen.io/stacyde/pen/MWGzVKK?editors=1100"> Исправление ошибок во вложенности HTML-элементов на странице "Блог Нетология"</a> </li>
-<li> <a href="https://codepen.io/stacyde/pen/ZEowpQK?editors=1100"> Нестандартные элементы форм. Верстка страницы «Направления Нетологии»"</a> </li>
+<li> <a href="https://codepen.io/stacyde/pen/ZEowpQK?editors=1100"> Нестандартные элементы форм</a> </li><p>Верстка страницы «Направления Нетологии»</p>
 <li> <a href="https://codepen.io/stacyde/pen/poVGEQW">Нестандартные элементы форм.Блок выбора города</a> </li>
 <li> <a href="https://codepen.io/stacyde/pen/OJZdbXp?editors=1100">Нестандартные элементы форм.Поле поиска</a> </li>
 <li> <a href="https://codepen.io/stacyde/pen/oNdVRor?editors=0100">Позиционирование flex-элементов.Фиксирование блоков</a> </li>
 <li> <a href="https://codepen.io/stacyde/pen/abGMrGM?editors=0100">Позиционирование flex-элементов.Правка статьи из блога Нетологии.</a> </li>
-<li> <a href="https://codepen.io/stacyde/pen/YzLgbOX?editors=0100">Позиционирование flex-элементов.Вёрстка текста по PSD-макету</a> </li>
+<li> <a href="https://codepen.io/stacyde/pen/YzLgbOX?editors=0100">Позиционирование flex-элементов</a> </li><p>Вёрстка текста по PSD-макету</p>
  </ul>
 <li> Работа с Git, одновременная работа с несколькими репозиториями </li>
  <ul>
@@ -83,25 +83,25 @@
    <li> <a href="https://github.com/Stacyde/BmiService">Testability. Введение в ООП.</a> </li><p>Создала приложение, выводящее итоговый счёт и количество бонусных рублей</p>
    <li> <a href="https://github.com/Stacyde/bonus-service">Система сборки Maven, управление зависимостями, авто-тесты на JUnit5n</a> </li><p>Написала сервис, который рассчитывает индекс массы тела</p>
     <li> <a href="https://github.com/Stacyde/bonus-service/commit/9a0194dbeef399f3ff0061bd09547db0127f7891">Система сборки Maven(maven-checkstyle-plugin)</a> </li>
-   <li> <a href="https://github.com/Stacyde/SQRService">Пакеты и циклы</a> </li>
-    <li> <a href="https://github.com/Stacyde/BonusService">Строки и массивы</a> </li>
-     <li> <a href="https://github.com/Stacyde/StatisticsService">Выстраивание процесса непрерывной интеграции (CI): Github Actions. Покрытие кода с JaCoCo, статический анализ кода: CheckStyle, SpotBugs</a> </li>
-     <li> <a href="https://github.com/Stacyde/API_">Объектно-ориентированное программирование: ключевые принципы</a> </li>
-     <li> <a href="https://github.com/Stacyde/Radioman">Объектно-ориентированное программирование и проектирование</a> </li>
-     <li> <a href="https://github.com/Stacyde/Radioman/pull/2">Объекты с внутренним состоянием, управление состоянием при тестировании</a> </li>
-      <li> <a href="https://github.com/Stacyde/ManagerFilms">Композиция и зависимость объектов. Mockito при создании автотестов</a> </li>
+  
+   <li> <a href="https://github.com/Stacyde/SQRService">Пакеты и циклы</a> </li><p>Написала сервисный класс расчитывающий квадратный корень. Использовала для тестирования параметризированные тесты.</p>
+    <li> <a href="https://github.com/Stacyde/BonusService">Строки и массивы</a> </li><p>Написала сервис, который умеет по предоставленному массиву месячных продаж рассчитывать - сумму всех продаж,среднюю сумму продаж в месяц,номер месяца, в котором был пик продаж, то есть осуществлены продажи на максимальную сумму,номер месяца, в котором был минимум продаж, то есть осуществлены продажи на минимальную сумму,количество месяцев, в которых продажи были ниже среднего,количество месяцев, в которых продажи были выше среднего. Использовала для тестирования параметризированные тесты. </p>
+     <li> <a href="https://github.com/Stacyde/StatisticsService">Выстраивание процесса непрерывной интеграции (CI): Github Actions. Покрытие кода с JaCoCo, статический анализ кода: CheckStyle, SpotBugs</a> </li><p>Настроила CI на основе GitHub Actions, добавила в проект JaCoCo и настроила его в режиме обрушения сборки по недостоющему покрытию 100% по счетчику branch. Дописала недостоющие тесты для полного покрытия.</p>
+     <li> <a href="https://github.com/Stacyde/API_">Объектно-ориентированное программирование: ключевые принципы</a> </li><p>Разработала классы, описывающие объекты запроса анкеты на сервер, и продемонстрировала их работу в Main</p>
+     <li> <a href="https://github.com/Stacyde/Radioman">Объектно-ориентированное программирование и проектирование</a> </li><p>Реализовала метод увеличения, уменьшения звука, выставление значений радиостанции, выставление значения звука,следующая радиостанция, предыдущая радиостанция.Написала тесты, добилась покрытия на 100% по бранчам. Настроила проект в режиме генерации отчета. Провела тест-дизайн.</p>
+     <li> <a href="https://github.com/Stacyde/Radioman/pull/2">Объекты с внутренним состоянием, управление состоянием при тестировании</a> </li><p>Модернизировала Радио под новые требования. Конструкторы.</p>
+      <li> <a href="https://github.com/Stacyde/ManagerFilms">Композиция и зависимость объектов. Mockito при создании автотестов</a> </li><p> Реализовала метод получения последних фильмов.</p>
  </ul>
 <li> Автотестирование веб-приложений на Java с использованием JUnit, Selenium, Selenide </li>
 <ul>
-<li> <a href="https://github.com/Stacyde/Gradle_CashbackHackService">JUnit - Основы автоматизации</a> </li> 
-<li> <a href="https://github.com/Stacyde/api_test">JUnit - Тестирование API, Continuous Integration(1)</a></li> 
-<li> <a href="https://github.com/Stacyde/api_tests">JUnit - Тестирование API, Continuous Integration(2)</a></li> 
-<li> <a href="https://github.com/Stacyde/web">Selenium</a></li> 
- <li> <a href="https://github.com/Stacyde/app_card">Selenide</a></li> 
-<li> <a href="https://github.com/Stacyde/app_patterns">Patterns</a></li> 
- <li> <a href="https://github.com/Stacyde/api_patterns">Patterns api</a></li> 
- <li> <a href="https://github.com/Stacyde/Bdd">Behaviour Driven Development </a></li> 
+<li> <a href="https://github.com/Stacyde/Gradle_CashbackHackService">JUnit - Основы автоматизации</a> </li><p>Создала проект на базе Gradle.Создала ветку TestNG, где добавила зависимости TestNG.Написала простые автотесты без параметризации.Создала ветку JUnit, где добавила зависимости JUnit.Написала простые автотесты без параметризации </p>
+<li> <a href="https://github.com/Stacyde/api_test">JUnit - Тестирование API, Continuous Integration</a></li><p>Настроила CI App Veyor.Добавила зависимость json-schema-validator. Модифицировала существующие тесты так, чтобы они проверяли соответствие схеме.</p>
+<li> <a href="https://github.com/Stacyde/web">Selenium</a></li> <p>Автоматизировала тестирование формы заказа карты с помощью Selenium.Использовала для построения окружения библиотеку webdriver manager. Протестировала функциональность: валидация полей перед отправкой.</p>
+ <li> <a href="https://github.com/Stacyde/app_card">Selenide</a></li> <p>Автоматизировала тестирование формы заказа доставки карты</p>
+<li> <a href="https://github.com/Stacyde/app_patterns">Patterns</a></li> <p>Автоматизировала тестирование новой функции формы заказа доставки карты. Использовала Faker, Lombok, data-классы. </p> 
+ <li> <a href="https://github.com/Stacyde/api_patterns">Patterns api</a></li><p>Протестировала функцию входа через веб-интерфейс с использованием Selenide. Создала data-классы, объекты которых и преобразуются в JSON. Активировала тестовый режим. Подключила Lombok.</p>
+ <li> <a href="https://github.com/Stacyde/Bdd">Behaviour Driven Development </a></li><p>Добила тестирование функции перевода с карты на карту.Через Page Object's добавила доменные методы. Завела issues.</p>
 </ul>
-<li> Знание различных видов виртуализации и контейнеризации, работа с Docker и Docker Compose <ul><li> <a href="https://github.com/Stacyde/Docker">Docker</a> </ul></li>
+<li> Знание различных видов виртуализации и контейнеризации, работа с Docker и Docker Compose <ul><li> <a href="https://github.com/Stacyde/Docker">Docker</a> </ul></li><p>Установила Docker и настроила его.Подготовила приложение к тестированию на СУБД PostgreSQL. Дописала остальные настройки: хост, порт, БД.</p>
 </ol>
 </div>
