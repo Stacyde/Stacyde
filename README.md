@@ -39,11 +39,11 @@
 <div class="Tasks" align ="left">
 <h2 class="Tasks-title">Ключевые результаты: </h2>
 <ol>
-<li> Ручное тестирование, написание тест-кейсов, тест-дизайн </li>
+<b><li> Ручное тестирование, написание тест-кейсов, тест-дизайн </li></b>
  <ul>
  <li> <a href="https://docs.google.com/spreadsheets/d/1Hk_e-0yaVFUjOaLTFKAW_kFzg3Jpg3a-TkDOU1lZrM8/edit#gid=0">Курсовой проект "Ручное тестирование веб-приложений"</a> </li><p>Написала чек-листы для функциональной проверки ЛК пользователя, включая функционал разделов henderson. Написала набор тест-кейсов на проверку функционала восстановления пароля + свои вопросы по этим требованиям. Нашла баги в функциях и составила баг-репорты. Изучила ответы и запросы при работе с сайтом, нашла запрос, в котором есть нужные параметры, нашла, как выглядят параметры deviceUUID, requestID и status.</p>
  </ul>
-<li>HTML и CSS для тестировщиков</li>
+<b><li>HTML и CSS для тестировщиков</li></b>
  <ul>
  <li> <a href="https://codepen.io/stacyde/full/PoedMMR">Вёрстка блока с кратким описанием языка HTML</a> </li>
  <li> <a href="https://codepen.io/stacyde/pen/JjvmPLy">Стилизация краткого описания статьи для блога Нетологии</a> </li>
@@ -64,7 +64,7 @@
 <li> <a href="https://codepen.io/stacyde/pen/abGMrGM?editors=0100">Позиционирование flex-элементов.Правка статьи из блога Нетологии.</a> </li>
 <li> <a href="https://codepen.io/stacyde/pen/YzLgbOX?editors=0100">Позиционирование flex-элементов</a> </li><p>Вёрстка текста по PSD-макету</p>
  </ul>
-<li> Работа с Git, одновременная работа с несколькими репозиториями </li>
+<b><li> Работа с Git, одновременная работа с несколькими репозиториями </li></b>
  <ul>
 <li> <a href="https://github.com/Stacyde/NeuroStartUp_">Работа с удаленным репозиторием через GitHub(push)</a> </li>
  <li> <a href="https://github.com/Stacyde/NeuroStartUp_/tree/new-text">Работа с удаленным репозиторием через GitHub(branch)</a> </li>
@@ -76,7 +76,7 @@
  <li> <a href="https://github.com/netology-code/git-2-homeworks-pr/pull/1647">Командная работа в Git и GitHub(pull request)</a> </li>
    <li> <a href="https://github.com/Stacyde/Stacyde">Командная работа в Git и GitHub(GitHub Pages)</a> </li>
  </ul>
-<li> Основы Java, Авто-тесты и CI, Объектно-ориентированное программирование</li>
+<b><li> Основы Java, Авто-тесты и CI, Объектно-ориентированное программирование</li></b>
  <ul>
 <li> <a href="https://github.com/Stacyde/Recipe_/issues/1">Введение в Java.</a> </li> <p>Проанализировала программу расчёта распределения ингредиентов на порцию и нашла баг</p>
   <li> <a href="https://github.com/Stacyde/Miles">Примитивные типы данных и условные операторы.</a> </li> <p>Создала приложение, рассчитывающее количество начисленных миль за купленный билет</p>
@@ -92,7 +92,7 @@
      <li> <a href="https://github.com/Stacyde/Radioman/pull/2">Объекты с внутренним состоянием, управление состоянием при тестировании</a> </li><p>Модернизировала Радио под новые требования. Конструкторы.</p>
       <li> <a href="https://github.com/Stacyde/ManagerFilms">Композиция и зависимость объектов. Mockito при создании автотестов</a> </li><p> Реализовала метод получения последних фильмов.</p>
  </ul>
-<li> Автотестирование веб-приложений на Java с использованием JUnit, Selenium, Selenide </li>
+<b><li> Автотестирование веб-приложений на Java с использованием JUnit, Selenium, Selenide </li></b>
 <ul>
 <li> <a href="https://github.com/Stacyde/Gradle_CashbackHackService">JUnit - Основы автоматизации</a> </li><p>Создала проект на базе Gradle.Создала ветку TestNG, где добавила зависимости TestNG.Написала простые автотесты без параметризации.Создала ветку JUnit, где добавила зависимости JUnit.Написала простые автотесты без параметризации </p>
 <li> <a href="https://github.com/Stacyde/api_test">JUnit - Тестирование API, Continuous Integration</a></li><p>Настроила CI App Veyor.Добавила зависимость json-schema-validator. Модифицировала существующие тесты так, чтобы они проверяли соответствие схеме.</p>
@@ -102,6 +102,10 @@
  <li> <a href="https://github.com/Stacyde/api_patterns">Patterns api</a></li><p>Протестировала функцию входа через веб-интерфейс с использованием Selenide. Создала data-классы, объекты которых и преобразуются в JSON. Активировала тестовый режим. Подключила Lombok.</p>
  <li> <a href="https://github.com/Stacyde/Bdd">Behaviour Driven Development </a></li><p>Добила тестирование функции перевода с карты на карту.Через Page Object's добавила доменные методы. Завела issues.</p>
 </ul>
-<li> Знание различных видов виртуализации и контейнеризации, работа с Docker и Docker Compose <ul><li> <a href="https://github.com/Stacyde/Docker">Docker</a> </ul></li><p>Установила Docker и настроила его.Подготовила приложение к тестированию на СУБД PostgreSQL. Дописала остальные настройки: хост, порт, БД.</p>
+<b><li> Знание различных видов виртуализации и контейнеризации, работа с Docker и Docker Compose </li></b>
+<ul>
+ <li> <a href="https://github.com/Stacyde/Docker">Docker</a></li>
+<p>Установила Docker и настроила его.Подготовила приложение к тестированию на СУБД PostgreSQL. Дописала остальные настройки: хост, порт, БД.</p>
+</ul>
 </ol>
 </div>
