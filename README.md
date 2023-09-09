@@ -164,7 +164,7 @@
 <ol><p> <a href="https://github.com/Stacyde/web">Web</a> - автоматизировала тестирование формы заказа карты с помощью Selenium.Использовала для построения окружения библиотеку webdriver manager. Протестировала функциональность: валидация полей перед отправкой.</p></ol>
 <ol><p> <a href="https://github.com/Stacyde/app_card">App card</a> - автоматизировала тестирование формы заказа доставки карты с помощью Selenide</p></ol>
 <ol><p> <a href="https://github.com/Stacyde/app_patterns">Patterns app</a> - автоматизировала тестирование новой функции формы заказа доставки карты с использованием Selenide. Использовала Faker, Lombok, data-классы. </p> </ol>
-<ol><p><a href="https://github.com/Stacyde/api_patterns">Patterns api</a> -протестировала функцию входа через веб-интерфейс с использованием Selenide. Создала data-классы, объекты которых и преобразуются в JSON. Активировала тестовый режим. Подключила Lombok.</p></ol>
+<ol><p><a href="https://github.com/Stacyde/api_patterns">Patterns api</a> -протестировала функцию входа через веб-интерфейс с использованием Selenide. Создала data-классы, объекты которых и преобразуются в JSON. Активировала тестовый режим. Подключила Lombok. Оценила время, которое затратила на автоматизацию, и время, за которое проверила бы те же сценарии вручную.</p></ol>
 <ol><p> <a href="https://github.com/Stacyde/Bdd">Behaviour Driven Development </a> - добила тестирование функции перевода с карты на карту.Через Page Object's добавила доменные методы. Завела issues.</p></ol>
 </ul>
 
