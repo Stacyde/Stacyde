@@ -136,7 +136,7 @@
    <ol><p> <a href="https://github.com/Stacyde/BmiService">BmiService</a> - cоздала приложение, выводящее итоговый счёт и количество бонусных рублей.</p></ol>
    <ol> <p><a href="https://github.com/Stacyde/bonus-service">Bonus-service</a> - написала сервис, который рассчитывает индекс массы тела.</p></ol>
    <ol><p> <a href="https://github.com/Stacyde/bonus-service/commit/9a0194dbeef399f3ff0061bd09547db0127f7891">maven-checkstyle-plugin</a> - подключила maven checkstyleplugin</p></ol>
-   <ol><p> <a href="https://github.com/Stacyde/SQRService">SQRService</a> - написала сервисный класс расчитывающий квадратный корень. Использовала для тестирования параметризированные тесты.</p></ol>
+   <ol><p> <a href="https://github.com/Stacyde/SQRService">SQRService</a> - написала сервисный класс рассчитывающий квадратный корень. Использовала для тестирования параметризированные тесты.</p></ol>
     <ol><p> <a href="https://github.com/Stacyde/BonusService">BonusService</a> - написала сервис, который умеет по предоставленному массиву месячных продаж рассчитывать - сумму всех продаж,среднюю сумму продаж в месяц,номер месяца, в котором был пик продаж, продажи на максимальную сумму,номер месяца, в котором был минимум продаж, продажи на минимальную сумму,количество месяцев, в которых продажи были ниже среднего,количество месяцев, в которых продажи были выше среднего. Использовала для тестирования параметризированные тесты. </p></ol>
       <ol><p> <a href="https://github.com/Stacyde/StatisticsService">StatisticsService</a> - настроила CI на основе GitHub Actions, добавила в проект JaCoCo и настроила его в режиме обрушения сборки по недостающему покрытию 100% по счетчику branch. Дописала недостающие тесты для полного покрытия.</p></ol> </ul>
 <ul>
