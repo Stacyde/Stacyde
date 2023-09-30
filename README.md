@@ -1,13 +1,15 @@
 <div class="Images" align ="center">
-<img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="100" alt="cat"/>
+
  
 </div>
 <div class="Badges-visiting" align ="center">
-  <img src="https://komarev.com/ghpvc/?username=Stacyde&style=flat-square&color=8a7f8e"/>
+
+<img src="https://get.wallhere.com/photo/cyberpunk-desk-3d-graphics-laptop-1828201.jpg"  width="1920" height="240"/>
+  <img src="https://komarev.com/ghpvc/?username=Stacyde&style=flat-square&color=228B22" align ="left"/>
   </div>
  
 <div class="About-me" align ="left">
-  <h2>Привет
+  <h2>Привет!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h2>
 
 <p>Я инженер по тестированию.</p>
@@ -32,6 +34,15 @@
 <img src="https://u.netology.ru/backend/uploads/page_assets/images/file/46328/tools_JIRA_color.png" title="JIRA" alt="JIRA" width="40" height="40"/>
 <img src="https://u.netology.ru/backend/uploads/page_assets/images/file/46300/tools_GitHub_color.png" title="GitHub" alt="GitHub" width="40" height="40"/>
 </div>
+</section>
+</aside>
+
+<aside class="Tools">
+<section class="Tools-section">
+<div class="Tools-img" align ="left">
+<h2 class="Tools-title">Статистика языков программирования, которые я использую: </h2>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Stacyde&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 </section>
 </aside>
@@ -40,9 +51,8 @@
 <h2 class="Tasks-title">Ключевые результаты: </h2>
 <ol>
 <b><li> Ручное тестирование, написание тест-кейсов, тест-дизайн </li></b>
-<p>Познакомилась с теориями тестирования, узнала разницу между понятиями QA и тестированием, написала тестовые сценарии и завела баг-репорты. На практике работала с различными программными продуктами, создала под них тестовые сценарии и заводила баги на платформе JIRA, а также тестировала API.</p>
  <ul>
- <li> <p><a href="https://docs.google.com/spreadsheets/d/1Hk_e-0yaVFUjOaLTFKAW_kFzg3Jpg3a-TkDOU1lZrM8/edit#gid=0">Курсовой проект</a> - написала чек-листы, набор тест-кейсов для проверки ЛК henderson. Нашла баги в функциях и составила баг-репорты.</p> </li>
+ <li> <p><a href="https://docs.google.com/spreadsheets/d/1Hk_e-0yaVFUjOaLTFKAW_kFzg3Jpg3a-TkDOU1lZrM8/edit#gid=0">Курсовой проект</a> - протестировала требования пользовательского сценария по процессу восстановления пароля на сайте henderson.ru, написала чек-лист для функциональной проверки личного кабинета, набор тест-кейсов для проверки ЛК henderson. Нашла баги в функциях раздела ЛК и составила баг-репорты.</p> </li>
 
  </ul>
  
@@ -66,7 +76,7 @@
  </ul>
 <ul>
 <li>Теги для вёрстки структуры контента</li>
-  </ul>
+</ul>
 <ul>
   <ol> <a href="https://codepen.io/stacyde/pen/BaxGBMM">История Монреаля.Вёрстка по стандарту W3C</a> </ol>
   <ol> <a href="https://codepen.io/stacyde/pen/qBYQBao">Стилизация блока Новостей</a> </ol>
