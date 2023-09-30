@@ -47,6 +47,15 @@
 </section>
 </aside>
 
+<aside class="Tools">
+<section class="Tools-section">
+<div class="Tools-img" align ="left">
+<h2></h2>
+
+![Snake animation](https://github.com/Stacyde/Stacyde/blob/output/github-contribution-grid-snake.svg)
+</div>
+</section>
+</aside>
 <div class="Tasks" align ="left">
 <h2 class="Tasks-title">Ключевые результаты: </h2>
 <ol>
