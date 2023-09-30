@@ -5,7 +5,7 @@
 <div class="Badges-visiting" align ="center">
 
 <img src="https://get.wallhere.com/photo/cyberpunk-desk-3d-graphics-laptop-1828201.jpg"  width="1920" height="240"/>
-  <img src="https://komarev.com/ghpvc/?username=Stacyde&style=flat-square&color=228B22" align ="left"/>
+  <img src="https://komarev.com/ghpvc/?username=Stacyde&style=flat-square&color=228B22" align ="right"/>
   </div>
  
 <div class="About-me" align ="left">
