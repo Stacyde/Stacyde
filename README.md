@@ -190,5 +190,6 @@
   </ul>
 <ul>
  <ol> <p><a href="https://replit.com/@stacyyde/Tax#index.js">Tax</a> - разработала приложение на JavaScript, которое может на основе информации о зарплатах посчитать с них налоги. Налог с зарплаты взимается в размере 20% и округляется в меньшую сторону до целого числа. </p></ol>
+<ol> <p><a href="https://github.com/Stacyde/bjs-2-homeworks/blob/main/1.base-concepts/task.js">base-concepts</a> - написала приложение для решения квадратных уравнений (ax² + bx + c = 0) и калькулятор для расчёта выплат по ипотеке</p></ol>
 </ul>
 </div>
