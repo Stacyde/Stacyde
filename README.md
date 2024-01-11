@@ -33,6 +33,7 @@
 <img src="https://u.netology.ru/backend/uploads/page_assets/images/file/46306/tools_Docker_color.png" title="Docker" alt="Docker" width="40" height="40"/>
 <img src="https://u.netology.ru/backend/uploads/page_assets/images/file/46328/tools_JIRA_color.png" title="JIRA" alt="JIRA" width="40" height="40"/>
 <img src="https://u.netology.ru/backend/uploads/page_assets/images/file/46300/tools_GitHub_color.png" title="GitHub" alt="GitHub" width="40" height="40"/>
+
 </div>
 </section>
 </aside>
@@ -207,7 +208,16 @@
 <li>Знакомство с платформой Node.js</li>
   </ul>
 <ul>
- <ol> <p><a href="https://github.com/Stacyde/customization">customization</a> - Скачала и установила (LTS версию) последнюю стабильную версию Node.js. Инициализировала npm-пакет. Установите плагины GitLens, Prettier, Eslint, Beautify. Сконфигурируйте Eslint и Prettier. Создала конфигурацию дебагера для отладки js с использованием Node.js.</p>
+ <ol> <p><a href="https://github.com/Stacyde/customization">customization</a> - Скачала и установила (LTS версию) последнюю стабильную версию Node.js. Инициализировала npm-пакет. Установила плагины GitLens, Prettier, Eslint, Beautify. Сконфигурируйте Eslint и Prettier. Создала конфигурацию дебагера для отладки js с использованием Node.js.</p>
+</ul>
+
+<b><li>Тестирование мобильных приложений</li></b>
+<ul>
+<li>Ручное тестирование мобильных приложений. Введение.</li>
+  </ul>
+<ul>
+ <ol> <p><a href="https://docs.google.com/spreadsheets/d/1evXco8ZbtohDCzDYHocLoVrmZzDyLUX3kSkMA9MxvAM/edit#gid=0">intro</a> 
+ - Составила чек-лист для тестирования онлайн-кинотеатра с учетом дополнительных требований к приложению. Протестировала приложение Everybook с применением техники исследовательского тестирования. Завела функциональные или GUI-баги. Написала краткий отчет о том, как тестировать оплаты на конечной версии мп, т. е. на окружении, доступном всем юзерам, и на тестовой версии, доступной тестировщикам и разработчикам. </p>
 </ul>
 </ol>
 </div>
