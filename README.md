@@ -1,6 +1,4 @@
 <div class="Images" align ="center">
-
- 
 </div>
 <div class="Badges-visiting" align ="center">
 
