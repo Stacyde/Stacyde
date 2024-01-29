@@ -216,7 +216,12 @@
   </ul>
 <ul>
  <ol> <p><a href="https://github.com/Stacyde/jsaqa-code/tree/main/7.3/jest">jest</a> - Установила и настроила Jest. Написала Unit-тесты с использованием jest. Добавила отчеты и задала критерии, где будут работать отчёты, а также параметры, которые исключают проверку в определённых местах проекта. Добавлиа параметры покрытия: branches:100, functions:100, lines:100. </p></ol>
- <ol> <p><a href="https://github.com/Stacyde/jsaqa-code/tree/main/7.3/playwright">playwright</a> - Установила и настроила playwright. Написала два UI-теста на авторизацию на Playwright. Для успешной авторизации создала файл user.js с использованием module.exports, где положила в него свой email и password как константы. Предворительно добавила user.js в .gitignore, чтобы файол не попал в публичный репозиторий и импортировала данные в тесты. Прописала необходимые настройки в playwright.config.js, такие как: использование браузера chromium, добавление скриншота после провала теста, открытие devtols при проходе теста и др. </p></ol>
+ <ol> <p><a href="https://github.com/Stacyde/jsaqa-code/tree/main/7.3/playwright">playwright</a> - Установила и настроила playwright. Написала два UI-теста на авторизацию на Playwright. Для успешной авторизации создала файл user.js с использованием module.exports, где положила в него свой email и password как константы. Предворительно добавила user.js в .gitignore, чтобы файол не попал в публичный репозиторий и импортировала данные в тесты. Прописала необходимые настройки в playwright.config.js, такие как: использование браузера chromium, добавление скриншота после провала теста, открытие devtols при проходе теста и др. </p></ol> </ul>
+
+<ul>
+<li>Puppeteer</li>
+  </ul>
+<ul>
  <ol> <p><a href="https://github.com/Stacyde/jsaqa-code/blob/main/7.4/puppeteer/gh.test.js">puppeteer</a> - Установила и настроила Puppeteer. Написала три теста на проверку заголовков на других страницах GitHub на Puppeteer. Настроила тайм-ауты для каждого теста в отдельности и убрала тайм-ауты из конфигурации. Прописала необходимые настройки в jest-puppeteer.config.js, такие как: открытие devtols при проходе теста и др. Настроила отчет о процессе запуска. </p></ol>
 </ul>
 
