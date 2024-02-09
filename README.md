@@ -223,7 +223,7 @@
   </ul>
 <ul>
  <ol> <p><a href="https://github.com/Stacyde/jsaqa-code/blob/main/7.4/puppeteer/gh.test.js">puppeteer</a> - Установила и настроила Puppeteer. Написала три теста на проверку заголовков на других страницах GitHub на Puppeteer. Настроила тайм-ауты для каждого теста в отдельности и убрала тайм-ауты из конфигурации. Прописала необходимые настройки в jest-puppeteer.config.js, такие как: открытие devtols при проходе теста и др. Настроила отчет о процессе запуска. </p></ol>
-<ol> <p><a href="">Puppeeter, ч.2</a> - </p></ol>
+<ol> <p><a href="https://github.com/Stacyde/jsaqa-code/tree/main/7.5/puppeteer-2">Puppeeter, ч.2</a> - Создала проект с использованием Puppeteer. Написала 2 happy path теста и 1 — sad path. Написала вспомогательные функции которые: выбирает место и ряд, выбирает фильм и зал, выбирает конкретный день. Подключила Cucumber к проекту и организовала BDD подход для тестов.</p></ol>
 </ul>
 
 <ul>
