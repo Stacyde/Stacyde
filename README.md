@@ -277,7 +277,7 @@
 <li>Автоматизация тестирование мобильных приложений</li>
   </ul>
 <ul>
-<ol> <p><a href="">Автоматизация тестирования мобильных приложений</a> - </p></ol>
+<ol> <p><a href="https://github.com/Stacyde/mqa-homeworks/tree/mqa-video/2.1%20auto/hw_app">Автоматизация тестирования мобильных приложений</a> - Скачала и установила Android Studio. Запустила apk-файл на эмуляторе. Написала автотест с помощью Espresso Test Recorder. Решила ошибку - No static method forceEnableAppTracing(), добавив в build.gradle implementation androidx.tracing:tracing:1.1.0. </p></ol>
 </ul>
 <ul>
 <ol> <p><a href="">UIAutomator. Автоматизация тестирования Android</a> - </p></ol>
